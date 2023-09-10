@@ -1,7 +1,5 @@
 # C Grundkurs
 
-Test Commit
-
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `C Grundkurs`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
